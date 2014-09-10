@@ -9,6 +9,8 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="187" y="150" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
+        <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C109%2C81%2C136%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221%22/%3E</map>
         <text>%u53D6%u6D88</text>
       </controlProperties>
     </control>

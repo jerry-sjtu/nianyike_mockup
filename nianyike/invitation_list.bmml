@@ -33,7 +33,7 @@
           <controlProperties>
             <hrefs>invitation_list%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%2Cinvitation_detail%26bm%3Binvitation_detail.bmml%26bm%3Binvitation_detail.bmml%26bm%3Binvitation_detail.bmml%2C%2C</hrefs>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C151%2C246%2C180%22%20href%3D%22invitation_list.bmml%22%20alt%3D%22invitation_list%22%20id%3D%220%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C180%2C246%2C230%22%20href%3D%22invitation_detail.bmml%22%20alt%3D%22invitation_detail%22%20id%3D%220%22/%3E%0A</map>
-            <text>%20%0A__%20jerry%5Cn%u300A%u5728%u8DEF%u4E0A%u300B%2C%2011%3A32%0A__%20%u4E00%u590F%u5929%5Cn%u300A%u660E%u671D%u90A3%u4E9B%u4E8B%u300B%2C11%3A34%0A__%20%u9F99%u65A7%u5B50%5Cn%20%u300A%u9EA6%u7530%u5B88%u671B%u8005%u300B%2C11%3A36</text>
+            <text>%20%0A__%20From%3A%20jerry%5Cn%u300A%u5728%u8DEF%u4E0A%u300B%2C%2011%3A32%0A__%20To%3A%20%u4E00%u590F%u5929%5Cn%u300A%u660E%u671D%u90A3%u4E9B%u4E8B%u300B%2C11%3A34%0A__%20From%3A%20%u9F99%u65A7%u5B50%5Cn%20%u300A%u9EA6%u7530%u5B88%u671B%u8005%u300B%2C11%3A36</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>

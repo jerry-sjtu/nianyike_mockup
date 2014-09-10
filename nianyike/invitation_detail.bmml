@@ -43,11 +43,15 @@
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="194" y="476" w="101" h="27" measuredW="48" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>msg_detail%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C457%2C133%2C484%22%20href%3D%22msg_detail.bmml%22%20alt%3D%22msg_detail%22%20id%3D%2213%22/%3E</map>
         <text>%u540C%u610F</text>
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="305" y="476" w="101" h="27" measuredW="48" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>invitation_list%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22143%2C457%2C244%2C484%22%20href%3D%22invitation_list.bmml%22%20alt%3D%22invitation_list%22%20id%3D%2214%22/%3E</map>
         <text>%u62D2%u7EDD</text>
       </controlProperties>
     </control>
