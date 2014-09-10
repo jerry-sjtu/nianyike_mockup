@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="694" measuredH="573" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="412" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="444" y="105" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HeartIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="475" y="107" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7528%u6237%u8D44%u6599</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="612" y="107" w="39" h="-1" measuredW="23" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2/4</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="444" y="458" w="98" h="27" measuredW="61" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>sign1%26bm%3Bsign1.bmml%26bm%3Bsign1.bmml%26bm%3Bsign1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C458%2C130%2C485%22%20href%3D%22sign1.bmml%22%20alt%3D%22sign1%22%20id%3D%224%22/%3E</map>
+        <text>%u4E0A%u4E00%u6B65</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="560" y="458" w="98" h="27" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>sign3%26bm%3Bsign3.bmml%26bm%3Bsign3.bmml%26bm%3Bsign3.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22148%2C458%2C246%2C485%22%20href%3D%22sign3.bmml%22%20alt%3D%22sign3%22%20id%3D%225%22/%3E</map>
+        <text>%u4E0B%u4E00%u6B65</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="498" y="157" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="520" y="157" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CameraIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="513" y="197" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u4E0A%u4F20%u5934%u50CF</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="460" y="263" w="191" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="460" y="273" w="181" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="460" y="252" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>%u9009%u62E9%u751F%u65E5</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HRule" x="460" y="330" w="181" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="460" y="291" w="-1" h="-1" measuredW="110" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20%u7537%20%28selected%29%20%20%0A%28%20%29%20%u5973</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
