@@ -35,8 +35,8 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::SearchBox" x="91" y="173" w="214" h="-1" measuredW="120" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>search%26bm%3Bsearch.bmml%26bm%3Bsearch.bmml%26bm%3Bsearch.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C153%2C245%2C178%22%20href%3D%22search.bmml%22%20alt%3D%22search%22%20id%3D%2212%22/%3E</map>
+        <href>search_msg%26bm%3Bsearch_msg.bmml%26bm%3Bsearch_msg.bmml%26bm%3Bsearch_msg.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C153%2C245%2C178%22%20href%3D%22search_msg.bmml%22%20alt%3D%22search_msg%22%20id%3D%2212%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="181" y="132" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
