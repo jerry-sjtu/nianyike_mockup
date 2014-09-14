@@ -85,10 +85,10 @@
     </control>
     <control controlID="20" controlTypeID="com.balsamiq.mockups::IconLabel" x="246" y="243" w="-1" h="-1" measuredW="36" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>book_share%26bm%3Bbook_share.bmml%26bm%3Bbook_share.bmml%26bm%3Bbook_share.bmml</href>
+        <href>book_invitation%26bm%3Bbook_invitation.bmml%26bm%3Bbook_invitation.bmml%26bm%3Bbook_invitation.bmml</href>
         <icon>JumpOutIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C223%2C222%2C247%22%20href%3D%22book_share.bmml%22%20alt%3D%22book_share%22%20id%3D%2220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C223%2C222%2C247%22%20href%3D%22book_invitation.bmml%22%20alt%3D%22book_invitation%22%20id%3D%2220%22/%3E</map>
         <text>2</text>
       </controlProperties>
     </control>
@@ -102,17 +102,7 @@
         <text>%u8BA9%u6211%u60F3%u8D77%u4E86%u5F88%u591A%u7684%u4E8B%u60C5%2C%20%3E%0A%u5F88%u5F00%u5FC3%u6709%u4EBA%u548C%u6211%u4E00%u6837%u559C%u6B22%u8FD9%u672C%u4E66%2C%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Icon" x="89" y="478" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>HeartIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Icon" x="121" y="478" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>JumpOutIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="148" y="477" w="151" h="-1" measuredW="92" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="95" y="477" w="213" h="-1" measuredW="92" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <state>disabled</state>
         <text>%u8BF4%u51FA%u4F60%u7684%u770B%u6CD5</text>

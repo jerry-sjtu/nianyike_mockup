@@ -23,8 +23,8 @@
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="189" zOrder="0" locked="false" isInGroup="11">
           <controlProperties>
-            <hrefs>invitation_list%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%2C%2C%2C</hrefs>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C197%2C246%2C226%22%20href%3D%22invitation_list.bmml%22%20alt%3D%22invitation_list%22%20id%3D%220%22/%3E%0A</map>
+            <hrefs>invitation_list%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%2Cmsg_detail%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml%2C%2C</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C197%2C246%2C226%22%20href%3D%22invitation_list.bmml%22%20alt%3D%22invitation_list%22%20id%3D%220%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C226%2C246%2C276%22%20href%3D%22msg_detail.bmml%22%20alt%3D%22msg_detail%22%20id%3D%220%22/%3E%0A</map>
             <text>*%20%u6211%u7684%u9080%u8BF7%0A__%20jerry%5Cn%u6700%u8FD1%u53D1%u73B0..%2C%2011%3A32%0A__%20%u4E00%u590F%u5929%5Cn%u5165%u4E86%u672C%u300A%u660E%u671D%u90A3%u4E9B%u4E8B%u300B%2C11%3A34%0A__%20%u9F99%u65A7%u5B50%5Cn%20%5B%u56FE%u7247%5D%2C11%3A36</text>
           </controlProperties>
         </control>

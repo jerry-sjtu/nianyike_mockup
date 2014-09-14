@@ -13,8 +13,8 @@
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="266" y="129" w="48" h="27" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>book_share%26bm%3Bbook_share.bmml%26bm%3Bbook_share.bmml%26bm%3Bbook_share.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22206%2C109%2C254%2C136%22%20href%3D%22book_share.bmml%22%20alt%3D%22book_share%22%20id%3D%2214%22/%3E</map>
+        <href>book_invitation%26bm%3Bbook_invitation.bmml%26bm%3Bbook_invitation.bmml%26bm%3Bbook_invitation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22206%2C109%2C254%2C136%22%20href%3D%22book_invitation.bmml%22%20alt%3D%22book_invitation%22%20id%3D%2214%22/%3E</map>
         <text>%u786E%u5B9A</text>
       </controlProperties>
     </control>
@@ -31,9 +31,9 @@
     </control>
     <control controlID="20" controlTypeID="com.balsamiq.mockups::Icon" x="87" y="134" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>book_share%26bm%3Bbook_share.bmml%26bm%3Bbook_share.bmml%26bm%3Bbook_share.bmml</href>
+        <href>book_invitation%26bm%3Bbook_invitation.bmml%26bm%3Bbook_invitation.bmml%26bm%3Bbook_invitation.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C114%2C43%2C130%22%20href%3D%22book_share.bmml%22%20alt%3D%22book_share%22%20id%3D%2220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C114%2C43%2C130%22%20href%3D%22book_invitation.bmml%22%20alt%3D%22book_invitation%22%20id%3D%2220%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

@@ -16,6 +16,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="95" y="163" w="-1" h="-1" measuredW="215" measuredH="213" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>%2C%2Cmsg_detail%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C206%2C250%2C235%22%20href%3D%22msg_detail.bmml%22%20alt%3D%22msg_detail%22%20id%3D%222%22/%3E%0A</map>
         <text>%u516C%u5171%u53F7%2C%3E%0AA%0A%u963F%u9EC4%0A%u5B89%u5728%0AB%0ABB%0A%u4E0D%u6DCB%u6F13%u5C3D%u81F4%u4E0D%u75DB%u5FEB</text>
       </controlProperties>
     </control>
