@@ -1,0 +1,10 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1276" measuredH="387" mockupW="1047" mockupH="310">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::SiteMap" x="229" y="77" w="-1" h="-1" measuredW="1047" measuredH="310" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>true</markup>
+        <text>Client%0A-API%20Agent%20Server%0A--%20User%20API%20Server%0A--%20Book%20API%20Server%0A--%20Invatation%20API%20Server%0A--%20Path%20API%20Server%0A--%20Comment%20API%20Server%0A--%20Like%20API%20Server%0A--%20Location%20API%20Server</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
