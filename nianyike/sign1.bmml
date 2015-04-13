@@ -24,8 +24,8 @@
     <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="483" y="497" w="80" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
-        <href>login%26bm%3Blogin.bmml%26bm%3Blogin.bmml%26bm%3Blogin.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C459%2C120%2C486%22%20href%3D%22login.bmml%22%20alt%3D%22login%22%20id%3D%224%22/%3E</map>
+        <href>landpage%26bm%3Blandpage.bmml%26bm%3Blandpage.bmml%26bm%3Blandpage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C459%2C120%2C486%22%20href%3D%22landpage.bmml%22%20alt%3D%22landpage%22%20id%3D%224%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>

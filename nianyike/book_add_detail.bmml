@@ -28,14 +28,16 @@
         <src>./assets/book1.jpg</src>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="186" y="168" w="69" h="-1" measuredW="65" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="186" y="168" w="122" h="-1" measuredW="101" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u5C11%u5973%u7684%u6E2F%u6E7E</text>
+        <text>%3C%3C%u5C11%u5973%u7684%u6E2F%u6E7E%3E%3E</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="186" y="207" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="186" y="195" w="-1" h="-1" measuredW="127" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%5B%u65E5%u672C%5D%u5DDD%u7AEF%u5EB7%u6210</text>
+        <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22126%2C175%2C253%2C196%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%227%22/%3E</map>
+        <text>%u4F5C%u8005%uFF1A%5B%u65E5%u672C%5D%u5DDD%u7AEF%u5EB7%u6210</text>
       </controlProperties>
     </control>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="89" y="282" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
@@ -65,6 +67,16 @@
         <href>libary%26bm%3Blibary.bmml%26bm%3Blibary.bmml%26bm%3Blibary.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C460%2C211%2C487%22%20href%3D%22libary.bmml%22%20alt%3D%22libary%22%20id%3D%2213%22/%3E</map>
         <text>%u6DFB%u52A0</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="186" y="222" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u51FA%u7248%u793E%uFF1A%u4E2D%u4FE1%u51FA%u7248%u793E</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="186" y="251" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u51FA%u7248%u65E5%u671F%uFF1A2014-12-10</text>
       </controlProperties>
     </control>
   </controls>
