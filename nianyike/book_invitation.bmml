@@ -27,8 +27,8 @@
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="134" y="473" w="107" h="27" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>msg_list%26bm%3Bmsg_list.bmml%26bm%3Bmsg_list.bmml%26bm%3Bmsg_list.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C460%2C137%2C487%22%20href%3D%22msg_list.bmml%22%20alt%3D%22msg_list%22%20id%3D%225%22/%3E</map>
+        <href>invitation_list%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml%26bm%3Binvitation_list.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C460%2C137%2C487%22%20href%3D%22invitation_list.bmml%22%20alt%3D%22invitation_list%22%20id%3D%225%22/%3E</map>
         <text>%u53D1%u9001</text>
       </controlProperties>
     </control>

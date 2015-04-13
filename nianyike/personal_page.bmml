@@ -13,7 +13,9 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="95" y="127" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>contact%26bm%3Bcontact.bmml%26bm%3Bcontact.bmml%26bm%3Bcontact.bmml</href>
         <icon>LeftArrowIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C107%2C59%2C131%22%20href%3D%22contact.bmml%22%20alt%3D%22contact%22%20id%3D%222%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="95" y="165" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1"/>
@@ -27,9 +29,9 @@
         <icon>UserIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="159" y="186" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="159" y="186" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u6635%u79F0%uFF1A%20%u897F%u74DC%u76AE</text>
+        <text>%u6635%u79F0%uFF1A%20%u963F%u9EC4</text>
       </controlProperties>
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::DataGrid" x="88" y="222" w="225" h="116" measuredW="169" measuredH="111" zOrder="7" locked="false" isInGroup="-1">
@@ -39,6 +41,8 @@
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="95" y="353" w="207" h="27" measuredW="74" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>msg_detail%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml%26bm%3Bmsg_detail.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C333%2C242%2C360%22%20href%3D%22msg_detail.bmml%22%20alt%3D%22msg_detail%22%20id%3D%2210%22/%3E</map>
         <text>%u53D1%u9001%u6D88%u606F</text>
       </controlProperties>
     </control>
