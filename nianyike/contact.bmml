@@ -16,8 +16,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="91" y="200" w="-1" h="-1" measuredW="215" measuredH="242" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2C%2C%2Cpersonal_page%26bm%3Bpersonal_page.bmml%26bm%3Bpersonal_page.bmml%26bm%3Bpersonal_page.bmml%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C272%2C246%2C301%22%20href%3D%22personal_page.bmml%22%20alt%3D%22personal_page%22%20id%3D%222%22/%3E%0A</map>
+        <hrefs>contact_new%26bm%3Bcontact_new.bmml%26bm%3Bcontact_new.bmml%26bm%3Bcontact_new.bmml%2C%2C%2Cpersonal_page%26bm%3Bpersonal_page.bmml%26bm%3Bpersonal_page.bmml%26bm%3Bpersonal_page.bmml%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C185%2C246%2C214%22%20href%3D%22contact_new.bmml%22%20alt%3D%22contact_new%22%20id%3D%222%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C272%2C246%2C301%22%20href%3D%22personal_page.bmml%22%20alt%3D%22personal_page%22%20id%3D%222%22/%3E%0A</map>
         <text>%u65B0%u7684%u670B%u53CB%2C%3E%0A%u516C%u5171%u53F7%0AA%0A%u963F%u9EC4%0A%u5B89%u5728%0AB%0ABB%0A%u4E0D%u6DCB%u6F13%u5C3D%u81F4%u4E0D%u75DB%u5FEB</text>
       </controlProperties>
     </control>
