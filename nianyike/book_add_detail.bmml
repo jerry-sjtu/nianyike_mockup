@@ -64,8 +64,8 @@
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="141" y="480" w="130" h="27" measuredW="48" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>libary%26bm%3Blibary.bmml%26bm%3Blibary.bmml%26bm%3Blibary.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C460%2C211%2C487%22%20href%3D%22libary.bmml%22%20alt%3D%22libary%22%20id%3D%2213%22/%3E</map>
+        <href>book_comment%26bm%3Bbook_comment.bmml%26bm%3Bbook_comment.bmml%26bm%3Bbook_comment.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C460%2C211%2C487%22%20href%3D%22book_comment.bmml%22%20alt%3D%22book_comment%22%20id%3D%2213%22/%3E</map>
         <text>%u6DFB%u52A0</text>
       </controlProperties>
     </control>

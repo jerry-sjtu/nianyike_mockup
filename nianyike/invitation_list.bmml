@@ -15,9 +15,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="174" y="134" w="74" h="-1" measuredW="52" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="174" y="134" w="74" h="-1" measuredW="26" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u6211%u7684%u9080%u8BF7</text>
+        <text>%u9080%u8BF7</text>
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="__group__" x="91" y="167" w="215" h="110" measuredW="215" measuredH="110" zOrder="3" locked="false" isInGroup="-1">

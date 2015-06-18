@@ -1,0 +1,73 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="683" measuredH="595" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="401" y="22" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="492" y="132" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u70B9%u8BC4%u300A%u770B%u89C1%u300B</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="433" y="175" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u559C%u6B22%u6307%u6570</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="__group__" x="500" y="177" w="102" h="16" measuredW="102" measuredH="16" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="8">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="8">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="65" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="8">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="86" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="8">
+          <controlProperties>
+            <icon>StarIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextArea" x="433" y="204" w="218" h="140" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5173%u4E8E%u8FD9%u672C%u4E66%uFF0C%u6211%u60F3%u8BF4.....</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="433" y="132" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>book_add_detail%26bm%3Bbook_add_detail.bmml%26bm%3Bbook_add_detail.bmml%26bm%3Bbook_add_detail.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C110%2C58%2C131%22%20href%3D%22book_add_detail.bmml%22%20alt%3D%22book_add_detail%22%20id%3D%2211%22/%3E</map>
+        <text>%u53D6%u6D88</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="625" y="132" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>libary%26bm%3Blibary.bmml%26bm%3Blibary.bmml%26bm%3Blibary.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22224%2C110%2C250%2C131%22%20href%3D%22libary.bmml%22%20alt%3D%22libary%22%20id%3D%2212%22/%3E</map>
+        <text>%u53D1%u9001</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="539" y="323" w="-1" h="-1" measuredW="105" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u52A0%u6CB9%uFF01%u8FD8%u5DEE12%u4E2A%u5B57</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
